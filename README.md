@@ -1,4 +1,4 @@
-<img width=100% src = "https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<img width=100% height=350 src = "https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 <h1 align="center">Hi 👋, I'm Ritam De</h1>
 <h3 align="center">A Passionate Coder, Driven by Curiosity</h3>
 
