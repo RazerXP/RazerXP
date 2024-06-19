@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/razarxp" target="blank"><img src="https://img.shields.io/twitter/follow/razarxp?logo=twitter&style=for-the-badge" alt="razarxp" /></a> </p>
 
-- 🔭 I’m currently working on **<Untitled GameDev Project>**
+- 🔭 I’m currently working on **Untitled GameDev Project**
 
 - 🌱 I’m currently learning **TensorFlow and Unity**
 
