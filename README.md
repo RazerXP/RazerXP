@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ritam De</h1>
 <h3 align="center">A Passionate Coder, Driven by Curiosity</h3>
-<img align="right" alt="Coding" width="300" src="[https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWh1bmg4MzN6MmphbWR0YW1zanVhcGxpcmd2ZHBwd2YyNG52aXN0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)">
+<img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razerxp&label=Profile%20views&color=0e75b6&style=flat" alt="razerxp" /> </p>
 
