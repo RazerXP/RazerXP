@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/razarxp" target="blank"><img src="https://img.shields.io/twitter/follow/razarxp?logo=twitter&style=for-the-badge" alt="razarxp" /></a> </p>
 
-- 🔭 I’m currently working on **Untitled GameDev Project**
+- 🔭 I’m currently working on **Untitled AppDev Project**
 
-- 🌱 I’m currently learning **TensorFlow and Unity**
+- 🌱 I’m currently learning **App Development & TF**
 
 - 👨‍💻 All of my projects are available at [https://razerxp.github.io/Portfolio/](https://razerxp.github.io/Portfolio/)
 
-- 💬 Ask me about **Python, Data Structures and Algorithms**
+- 💬 Ask me about **Python, Flutter, AI/ML**
 
 - 📫 How to reach me **ritamde25@gmail.com**
 
